@@ -33,5 +33,7 @@ public class Wrapper_Ex03 {
 		
 		System.out.println("문자열 byte값 변환 : " + b);
 		
+		
+		// 한글 깨짐 확인코드!!!!
 	}
 }
